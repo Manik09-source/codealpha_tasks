@@ -36,3 +36,71 @@ Chopra, A.K. (2017). Dynamics of Structures: Theory and Applications to Earthqua
 Naeim, F. (Ed.). (2001). The Seismic Design Handbook (2nd ed.). Springer Science.
 File
 Earthquake_Resistant_Building_Design_Report.docx — full report with figures and tables
+
+
+
+
+
+
+
+
+
+
+
+
+Structural Load Analysis Report
+Component Evaluation: Simply Supported Reinforced Concrete Floor Beam
+Structure Type: Commercial Office Building
+Design Framework: Ultimate Limit State (ULS)
+Author: Manik Deogam
+Overview
+This report presents the structural load calculation and analytical behavior for a standard interior floor beam supporting a solid monolithic slab panel within a multi-storey skeletal frame structure.
+Design Parameters
+Parameter
+Value
+Beam span (L)
+6.0 m
+Beam width (b)
+300 mm
+Beam total depth (h)
+500 mm
+Slab thickness (ts)
+150 mm
+Tributary width (Wt)
+3.0 m
+RC density (γc)
+25 kN/m³
+Floor finish density (γf)
+24 kN/m³
+Contents
+Structural Configuration & Design Parameters — beam and slab geometry, material densities
+Load Estimation & Analysis
+Dead load (slab self-weight, beam stem, floor finish) → 17.48 kN/m
+Live load (office occupancy) → 9.00 kN/m
+Lateral load framework (wind/seismic baseline check) → 2.65 kN/m
+Load Combinations & Ultimate Factored Design Load — ULS combinations (1.2D+1.6L governs) → wu = 35.38 kN/m
+Structural Behavior & Design Criteria
+Maximum shear force: Vu = 106.14 kN
+Maximum bending moment: Mu = 159.21 kNm
+Deflection check under service loads (within L/250 limit)
+Summary Calculation Sheet — consolidated table of unfactored and factored values
+Key Conclusions & Detailing Directives — flexural and shear reinforcement requirements
+Key Results
+Metric
+Value
+Total dead load (wDL)
+17.48 kN/m
+Total live load (wLL)
+9.00 kN/m
+Factored design load (wu)
+35.38 kN/m
+Ultimate shear force (Vu)
+106.14 kN
+Ultimate bending moment (Mu)
+159.21 kNm
+Key Conclusions
+Continuous tension reinforcement is required along the bottom face to resist the ultimate mid-span bending moment of 159.21 kNm.
+Steel stirrup links must be detailed closely near both support ends to transfer the maximum design shear load of 106.14 kN.
+File
+STRUCTURAL_LOAD_ANALYSIS_REPORT.docx — full report with calculations and summary tables
+Note: This file is a PDF saved with a .docx extension. You may want to rename it to .pdf (or re-export it as a genuine Word file) before uploading, so it opens correctly for anyone who downloads it.
